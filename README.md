@@ -11,7 +11,8 @@
 
 
 2. **개발환경**  
-![사용소프트웨어](https://github.com/user-attachments/assets/558fa1ff-a8d0-4f0a-8f43-029c81decef9)
+![사용소웨](https://github.com/user-attachments/assets/ad941e25-9208-4995-9983-e43fd6d1977c)
+
 
 
 3. **시스템 구조 **  
