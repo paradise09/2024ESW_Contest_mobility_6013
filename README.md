@@ -15,14 +15,14 @@
 
 
 
-3. **시스템 구조 **  
+3. **시스템 구조**  
 ![시스템](https://github.com/user-attachments/assets/df921fb5-ae64-4ff4-94e4-2d1b836beb43)
 
-3. **시스템 흐름도 및 워크플로우 **
--시스템 흐름도
+3. **시스템 흐름도 및 워크플로우**
+***-시스템 흐름도***
 ![AI_System_Flowchart_OCR_Vertical](https://github.com/user-attachments/assets/1cfba2f2-fe51-45fc-b45c-c5b4d968dd92)
 
--시스템 워크플로우
+***-시스템 워크플로우***
 ![워크플로우](https://github.com/user-attachments/assets/77256a85-7778-49c2-8035-ba0e9197e647)
 
 
