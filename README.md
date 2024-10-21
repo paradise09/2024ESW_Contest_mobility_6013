@@ -24,7 +24,7 @@
 
 5. **개발환경**
 
-![사용소웨](https://github.com/user-attachments/assets/ad941e25-9208-4995-9983-e43fd6d1977c)
+![사용소웨](개발환경.png)
 
 
 
